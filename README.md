@@ -6,7 +6,7 @@
 
 ## 🎯 Purpose
 
-This is the backend/server-side of the **BookCourier** application. It provides RESTful APIs to manage users, books, orders, payments, and role-based dashboards (User, Librarian, Admin). The server ensures secure data handling, authentication, authorization, and smooth communication between the client and database.
+This is the backend/server-side of the **BookCourier** application. It provides RESTful APIs to manage users, books, orders, payments, and role-based dashboards (User, Librarian, Admin). The server ensures secure data handling, authentication, authorization, and smooth communication between the client and database. That should be interesting
 
 ## 🌐 Live Server URL
 https://assignemnt-11-server.vercel.app
